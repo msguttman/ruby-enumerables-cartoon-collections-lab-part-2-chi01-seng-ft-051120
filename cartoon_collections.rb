@@ -3,6 +3,7 @@ def square_array(array)
   # Return a new array of the results
   array.map { |i| 
   i * i
+  }
 end
 
 def summon_captain_planet(planeteer_calls)
